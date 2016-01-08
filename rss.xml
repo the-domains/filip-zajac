@@ -4,8 +4,15 @@
         <description><![CDATA[Filip Zajac]]></description>
         <link>https://thegrid.ai/filip-zajac/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 13:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jan 2016 13:38:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/filip-zajac/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FILIP ZAJAC]]></title>
+            <description><![CDATA[<article><h1>FILIP ZAJAC</h1><p>Digital Tools Designer with background in Visual Desing and User Experience Design.</p></article>]]></description>
+            <link>https://thegrid.ai/filip-zajac/filip-zajac/index.html</link>
+            <guid isPermaLink="false">e9456ab5-61e1-4844-a1ce-ebbe6a67f51e</guid>
+            <pubDate>Fri, 08 Jan 2016 13:37:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a163375479005.562cf8f994871.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/xyzajac</link>
             <guid isPermaLink="false">1bcb495b-aa33-44b4-b1f0-ea8b18bcb35d</guid>
             <pubDate>Fri, 08 Jan 2016 13:30:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FILIP ZAJAC]]></title>
-            <description><![CDATA[<article><h1>FILIP ZAJAC</h1><p>Digital Tools Designer with background in Visual Desing and User Experience Design.</p></article>]]></description>
-            <link>https://thegrid.ai/filip-zajac/filip-zajac/index.html</link>
-            <guid isPermaLink="false">e9456ab5-61e1-4844-a1ce-ebbe6a67f51e</guid>
-            <pubDate>Fri, 08 Jan 2016 13:29:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
