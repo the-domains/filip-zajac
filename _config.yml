@@ -1,6 +1,6 @@
 name: Filip Zajac
 favicon: null
-layout_spectrum: 0.5670688175596297
+layout_spectrum: 0.82778
 typography_spectrum: 0.11259541404433548
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#f29fd7'
     - '#43000d'
   brandStrength: 0.5993289386387914
-  lightness: 0.39585428312420845
+  lightness: 0.6875
   saturation: 0.625
-  rhythmicContrast: 0.2050507478415966
+  rhythmicContrast: 0.25
 purpose: []
