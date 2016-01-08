@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-08T13:29:38.634Z'
-dateModified: '2016-01-08T13:29:18.360Z'
+datePublished: '2016-01-08T13:37:38.726Z'
+dateModified: '2016-01-08T13:37:33.273Z'
 title: FILIP ZAJAC
 author: []
 authors: []
