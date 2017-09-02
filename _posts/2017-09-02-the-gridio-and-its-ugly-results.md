@@ -1,36 +1,37 @@
 ---
 publisher: {}
-datePublished: '2017-09-02T13:13:21.924Z'
-dateModified: '2017-09-02T13:13:09.394Z'
-via: {}
+datePublished: '2017-09-02T15:12:17.655Z'
+dateModified: '2017-09-02T13:26:12.037Z'
 description: >-
-  You might have noticed that the visual quality of my website should be much
-  better in contrast to my work. However, that's the purpose of the idea. Read
-  more why.
-title: The Grid.io and its ugly results
+  You might have noticed that the visual quality of my website is not the
+  quality in my portfolio. What is the reason behind its ugliness and why am I
+  proud of it is the nurturing of IA baby of Grid.io. Meet Moly the AI web
+  designer of future.
+via: {}
 sourcePath: _posts/2017-09-02-the-gridio-and-its-ugly-results.md
+title: Designing with artificial intelligence
+hasPage: true
 inFeed: true
 author: []
-hasPage: true
 starred: true
 datePublishedOriginal: '2017-09-02T09:25:02.677Z'
 url: the-gridio-and-its-ugly-results/index.html
 _type: Article
 
 ---
-# The Grid.io and its ugly results
+# Designing with artificial intelligence
 
-You might have noticed that the visual quality of my website should be much better in contrast to my work. However, that's the purpose of the idea. Read more why.
+You might have noticed that the visual quality of my website is not the quality in my portfolio. What is the reason behind its ugliness and why am I proud of it is the nurturing of IA baby of Grid.io. Meet Moly the AI web designer of future.
 
 ---
 
 The website is builded by the artificial intelligence called Moly for CMS Grid.io. Currently Moly is still very young and doesn't understand harmony very well. There are plenty of complaints around the system raised by the Grid's customers because the results are not what they expected.
 
-So why am I still here?
+So why am I still supportive?
 
 The campaign of the grid was quite invasive especially in times when remaketing was at its beginnings. This is something what makes people pissed off.
 
-However, I like the idea a lot even as a web designer who will be in trouble in the future because of Moly might be able to outcompete us me. But so does web templates, aren't they?
+However, I love the idea a lot. Even as a web designer who will be inn trouble in the future because of Moly might be able to outcompete us me. But so does web templates, aren't they?
 
 However if you are into an artificial intelligence and its capabilities a bit you'll expect that this will never happen. AI is still a machine and she will be not able to think out of her machine box. That means she will never do anything that combination of things we have her learned.
 
