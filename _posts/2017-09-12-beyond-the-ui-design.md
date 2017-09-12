@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-09-12T14:10:05.228Z'
+dateModified: '2017-09-12T14:23:06.279Z'
 via: {}
 description: >-
   Designing user interface visual are on the contrary of designing experience
@@ -9,7 +9,7 @@ description: >-
 title: Beyond the UI design – case study
 inFeed: false
 author: []
-datePublished: '2017-09-12T14:10:06.599Z'
+datePublished: '2017-09-12T14:23:07.556Z'
 hasPage: true
 sourcePath: _posts/2017-09-12-beyond-the-ui-design.md
 starred: true
@@ -91,7 +91,11 @@ The last part was dedicated to everyday routines. Not obvious but routine that l
 
 ### Collecting visual material
 
-Equpe
+Equipped with information I have dived for a couple of days in collecting of visual materials. Taking photos of desktop, looking for special interesting detail, or taking screenshots of details from movies or photos. I wanted to immerse myself completely. Every part of my mind was perceiving the visualities even while dreaming.
+
+While the associations between sentiments and symbols started to be more clear I have created my first mood boards. Now I can see what could be done with the material. This slowly results in the design phase.
+
+Design phase
 
 [0]: http://visual-memory.co.uk/daniel/Documents/S4B/sem06.html
 [1]: https://en.wikipedia.org/wiki/Miloš_Forman
