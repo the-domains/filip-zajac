@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-09-12T13:49:54.218Z'
+dateModified: '2017-09-12T14:10:05.228Z'
 via: {}
 description: >-
   Designing user interface visual are on the contrary of designing experience
@@ -9,7 +9,7 @@ description: >-
 title: Beyond the UI design – case study
 inFeed: false
 author: []
-datePublished: '2017-09-12T13:49:55.065Z'
+datePublished: '2017-09-12T14:10:06.599Z'
 hasPage: true
 sourcePath: _posts/2017-09-12-beyond-the-ui-design.md
 starred: true
@@ -57,6 +57,14 @@ I knew what needs to be delivered. Right? But I don't know how it should look li
 ### Step two -- get evaluation criteria
 
 This is the part that most of the visual project is missing because the evaluation visual quality is hard to measure. However, the clever people have done the evaluation methods for us. Since the visual is a matter of appeal we will evaluate the quality though the adjectives that represent it.
+
+**Positive words - desired state**
+
+Clear, Collaborative, Comfortable, Effortless, Familiar, Friendly, Helpful, Reliable
+
+**Negative words - we want to avoid**
+
+Confusing, Difficult, Distracting, Fragile, Frustrating, Impersonal, Ineffective, Time-consuming, Sterile
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bc6ca8e-41aa-4046-900a-d288372b9592.png)
 
 Here we set up the bunch of adjectives, which was carefully discussed and derived from the project request and the company values. Those can be used by any of the described methods -- semantic differential or desirability test.
@@ -69,7 +77,21 @@ This is the part where everybody looks how it was done previously. However, from
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06a32806-8254-4f94-b481-911cde1783a8.jpg)
 
 Let's say there is a sentiment behind the certain value -- for instance stability and humanity. Many of the Kentico and Czech people believe in the myth of old good times represented by [Miloš Forman][1]'s films for instance [Postriziny][2]. And If I'll use some symbols from that movie I will remind the sentiment underneath and evoke the requested values of stability and humanity.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/015b8b76-6cfc-4695-8f8d-9a05de285742.png)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/351b11b86577411c557e8b813a7558ce/croprotate.png?cropheight=801&cropwidth=729&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F015b8b76-6cfc-4695-8f8d-9a05de285742.png&x=0&y=2)
+
+### What to ask?
+
+At first, I want to learn their idols so the participant can describe its values. Perfect materials were favourite movies, books or life heroes.
+
+Then we look at the personal photos. Through the reminder, the participant told the story that resonates with her life in Kentico and beyond.
+
+By talking about personal talismans, totems and other personal occultists we can get another story directly connected to the symbol. Usually looking for things on the desktop, in office or wallpaper.
+
+The last part was dedicated to everyday routines. Not obvious but routine that lack of it existence would change her life.
+
+### Collecting visual material
+
+Equpe
 
 [0]: http://visual-memory.co.uk/daniel/Documents/S4B/sem06.html
 [1]: https://en.wikipedia.org/wiki/Miloš_Forman
