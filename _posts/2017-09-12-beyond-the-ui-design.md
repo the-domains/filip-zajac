@@ -1,12 +1,12 @@
 ---
 publisher: {}
-dateModified: '2017-09-12T11:28:20.062Z'
+dateModified: '2017-09-12T11:30:07.113Z'
 via: {}
 description: ''
 title: Beyond the UI design
 inFeed: false
 author: []
-datePublished: '2017-09-12T11:28:21.177Z'
+datePublished: '2017-09-12T11:30:07.847Z'
 hasPage: true
 sourcePath: _posts/2017-09-12-beyond-the-ui-design.md
 starred: true
