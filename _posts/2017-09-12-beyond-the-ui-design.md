@@ -1,12 +1,15 @@
 ---
 publisher: {}
-dateModified: '2017-09-12T11:30:07.113Z'
+dateModified: '2017-09-12T11:42:15.751Z'
 via: {}
-description: ''
-title: Beyond the UI design
+description: >-
+  Designing user interface visual are on the contrary of designing experience
+  often matter of designers feelings and brand guides. But what if we take step
+  back to revise UI design process in the same manner as UX does?
+title: Beyond the UI design – case study
 inFeed: false
 author: []
-datePublished: '2017-09-12T11:30:07.847Z'
+datePublished: '2017-09-12T11:42:16.869Z'
 hasPage: true
 sourcePath: _posts/2017-09-12-beyond-the-ui-design.md
 starred: true
@@ -15,15 +18,15 @@ url: beyond-the-ui-design/index.html
 _type: Blurb
 
 ---
-# Beyond the UI design
-
-Beyond the UI design
+# Beyond the UI design -- case study
 
 Designing user interface visual are on the contrary of designing experience often matter of designers feelings and brand guides. But what if we take step back to revise UI design process in the same manner as UX does?
 
+---
+
 Last challenge at Kentico software was to set up new visual of the Kentico Cloud. Thanks to the company's generosity to let employees take an extra mile to experiment and research non-standard opportunities, I have taken the experiment of the UI design method.
 
-Kentico Cloud leverages material design to quickly build the basic product. However, it generated two side effect. The product is using the visual language of Google and beside the myriad of other products using material design, the appearance of the was too generic which leads to lower trust. The company's vision is to become domain thought leader and with the generic product appearance, this becomes a serious problem. 
+Kentico Cloud leverages material design to quickly build the basic product. However, it generated two side effect. The product is using the visual language of Google and beside the myriad of other products using material design, the appearance of the was too generic which leads to lower trust. The company's vision is to become domain thought leader and with the generic product appearance, this becomes a serious problem.
 
 It wasn't the first project for me neither for the company has redesigned its previous product couple years ago. Matej Kvasnovsky has written the blog post about it.
 
@@ -48,7 +51,7 @@ I knew what needs to be delivered. Right? But I don't know how it should look li
 
 **Criteria for the project**
 
-* Unique visual language or at least distinguishable from notoriously known tech brands like Google, Microsoft, Apple, Dropbox etc. 
+* Unique visual language or at least distinguishable from notoriously known tech brands like Google, Microsoft, Apple, Dropbox etc.
 * Original visual language that represents company's values.
 * Meaningful visual language that supports the productivity of product users.
 
