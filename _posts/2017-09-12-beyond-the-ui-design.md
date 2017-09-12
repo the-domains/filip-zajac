@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-09-12T11:42:15.751Z'
+dateModified: '2017-09-12T11:42:23.986Z'
 via: {}
 description: >-
   Designing user interface visual are on the contrary of designing experience
@@ -9,7 +9,7 @@ description: >-
 title: Beyond the UI design – case study
 inFeed: false
 author: []
-datePublished: '2017-09-12T11:42:16.869Z'
+datePublished: '2017-09-12T11:42:24.717Z'
 hasPage: true
 sourcePath: _posts/2017-09-12-beyond-the-ui-design.md
 starred: true
@@ -21,6 +21,7 @@ _type: Blurb
 # Beyond the UI design -- case study
 
 Designing user interface visual are on the contrary of designing experience often matter of designers feelings and brand guides. But what if we take step back to revise UI design process in the same manner as UX does?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bbb38962-8828-401a-9f2e-74c6b77aa217.png)
 
 ---
 
