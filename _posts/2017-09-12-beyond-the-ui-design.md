@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-09-12T13:31:08.561Z'
+dateModified: '2017-09-12T13:49:54.218Z'
 via: {}
 description: >-
   Designing user interface visual are on the contrary of designing experience
@@ -9,7 +9,7 @@ description: >-
 title: Beyond the UI design – case study
 inFeed: false
 author: []
-datePublished: '2017-09-12T13:31:09.353Z'
+datePublished: '2017-09-12T13:49:55.065Z'
 hasPage: true
 sourcePath: _posts/2017-09-12-beyond-the-ui-design.md
 starred: true
@@ -33,11 +33,9 @@ Kentico Cloud leverages material design to quickly build the basic product. Howe
 
 It wasn't the first project for me neither for the company has redesigned its previous product couple years ago. Matej Kvasnovsky has written the blog post about it.
 
-Inspired by Matej's work with insights of Kristy (a fellow designer at Intercom) and fascination of Roland Barthes book Mythologies, I put together an outline of the project.
-
-* **Reseach phase**In research phase I wanted to accumulate data for the creative phase.
-* **Creative phase**Goal is was ideate visual material from researched data and its constraints for delivering phase.
-* **Delivering phase**To produce deliverables from ideated visuals for implementation.
+* **Reseach phase **-- to accumulate data for the creative phase.
+* **Creative phase **-- to ideate visual material from researched data and its constraints for delivering phase.
+* **Delivering phase **-- to produce deliverables from ideated visuals for implementation.
 
 ## Research phase
 
