@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-09-12T11:44:54.405Z'
+dateModified: '2017-09-12T11:45:30.301Z'
 via: {}
 description: >-
   Designing user interface visual are on the contrary of designing experience
@@ -9,7 +9,7 @@ description: >-
 title: Beyond the UI design – case study
 inFeed: false
 author: []
-datePublished: '2017-09-12T11:44:55.420Z'
+datePublished: '2017-09-12T11:45:30.853Z'
 hasPage: true
 sourcePath: _posts/2017-09-12-beyond-the-ui-design.md
 starred: true
@@ -32,10 +32,6 @@ Last challenge at Kentico software was to set up new visual of the Kentico Cloud
 Kentico Cloud leverages material design to quickly build the basic product. However, it generated two side effect. The product is using the visual language of Google and beside the myriad of other products using material design, the appearance of the was too generic which leads to lower trust. The company's vision is to become domain thought leader and with the generic product appearance, this becomes a serious problem.
 
 It wasn't the first project for me neither for the company has redesigned its previous product couple years ago. Matej Kvasnovsky has written the blog post about it.
-
-From my point of view, a Sengnor designer should know own methods.
-
-There are plenty of other case studies. They have amazing results. But I am missing a certain amount of rigourosity in the process.
 
 Inspired by Matej's work with insights of Kristy (a fellow designer at Intercom) and fascination of Roland Barthes book Mythologies, I put together an outline of the project.
 
