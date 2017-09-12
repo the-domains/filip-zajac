@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-02T15:12:17.655Z'
-dateModified: '2017-09-02T13:26:12.037Z'
+datePublished: '2017-09-12T11:35:22.178Z'
+dateModified: '2017-09-12T11:35:20.298Z'
 description: >-
   You might have noticed that the visual quality of my website is not the
   quality in my portfolio. What is the reason behind its ugliness and why am I
@@ -12,7 +12,8 @@ sourcePath: _posts/2017-09-02-the-gridio-and-its-ugly-results.md
 title: Designing with artificial intelligence
 hasPage: true
 inFeed: true
-author: []
+author:
+  - url: 'https://flipboard.com/@miciver/thegrid-news-mtsmfkdrz'
 starred: true
 datePublishedOriginal: '2017-09-02T09:25:02.677Z'
 url: the-gridio-and-its-ugly-results/index.html
@@ -22,6 +23,7 @@ _type: Article
 # Designing with artificial intelligence
 
 You might have noticed that the visual quality of my website is not the quality in my portfolio. What is the reason behind its ugliness and why am I proud of it is the nurturing of IA baby of Grid.io. Meet Moly the AI web designer of future.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b007fbc1-9edc-4af3-9540-4db9ed4f94c1.jpg)
 
 ---
 
