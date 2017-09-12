@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-09-12T14:23:06.279Z'
+dateModified: '2017-09-12T14:23:26.998Z'
 via: {}
 description: >-
   Designing user interface visual are on the contrary of designing experience
@@ -9,7 +9,7 @@ description: >-
 title: Beyond the UI design – case study
 inFeed: false
 author: []
-datePublished: '2017-09-12T14:23:07.556Z'
+datePublished: '2017-09-12T14:23:28.725Z'
 hasPage: true
 sourcePath: _posts/2017-09-12-beyond-the-ui-design.md
 starred: true
@@ -77,7 +77,7 @@ This is the part where everybody looks how it was done previously. However, from
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06a32806-8254-4f94-b481-911cde1783a8.jpg)
 
 Let's say there is a sentiment behind the certain value -- for instance stability and humanity. Many of the Kentico and Czech people believe in the myth of old good times represented by [Miloš Forman][1]'s films for instance [Postriziny][2]. And If I'll use some symbols from that movie I will remind the sentiment underneath and evoke the requested values of stability and humanity.
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/351b11b86577411c557e8b813a7558ce/croprotate.png?cropheight=801&cropwidth=729&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F015b8b76-6cfc-4695-8f8d-9a05de285742.png&x=0&y=2)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c42bf5b1b33bbc7442168f6ba2b54ad4b931b1d9.png)
 
 ### What to ask?
 
