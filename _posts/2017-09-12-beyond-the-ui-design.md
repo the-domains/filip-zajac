@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-09-12T12:56:12.826Z'
+dateModified: '2017-09-12T12:59:38.988Z'
 via: {}
 description: >-
   Designing user interface visual are on the contrary of designing experience
@@ -9,7 +9,7 @@ description: >-
 title: Beyond the UI design – case study
 inFeed: false
 author: []
-datePublished: '2017-09-12T12:56:13.994Z'
+datePublished: '2017-09-12T12:59:40.233Z'
 hasPage: true
 sourcePath: _posts/2017-09-12-beyond-the-ui-design.md
 starred: true
@@ -68,7 +68,10 @@ Here we set up the bunch of adjectives, which was carefully discussed and derive
 This is the part where everybody looks how it was done previously. However, from my point of view, it is completely wrong if your aim is to create something original. Original in terms of including a touch of an original source.
 
 **Semiotics in user interface**While observing people, offices, the city of Brno, I remind myself the book Mythologies written by Roland Barthes. He used [semiotics to investigate myths of advertisements][0]. This method gives me the clue how to involve symbols of visualities.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/06a32806-8254-4f94-b481-911cde1783a8.jpg)
 
-Let's say there is a sentiment behind the certain value. Let's say stability and humanity. Many of the Kentico and Czech people believe in the myth of old good times represented by Milos Forman's films for instance Postriziny. And If I'll use some symbols from that movie I will remind the sentiment underneath and evoke the requested values of stability and humanity.
+Let's say there is a sentiment behind the certain value -- for instance stability and humanity. Many of the Kentico and Czech people believe in the myth of old good times represented by [Miloš Forman][1]'s films for instance [Postriziny][2]. And If I'll use some symbols from that movie I will remind the sentiment underneath and evoke the requested values of stability and humanity.
 
 [0]: http://visual-memory.co.uk/daniel/Documents/S4B/sem06.html
+[1]: https://en.wikipedia.org/wiki/Miloš_Forman
+[2]: https://en.wikipedia.org/wiki/Cutting_It_Short
