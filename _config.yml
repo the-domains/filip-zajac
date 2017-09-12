@@ -1,22 +1,41 @@
-name: Filip Zajac
-analytics: {}
-purpose:
-  - type: contact
-    url: 'mailto:hi@filipzajac.me'
-    label: Contact me
-  - type: internal
-    label: Meet me
-    item: 8de6405a-f70c-4154-945c-fccc094a9d8e
+typography_spectrum: 1
+content_rating:
+  adult: false
+color:
+  lightness: 0.8804606996109654
+  brandColors:
+    - '#F0F0EB'
+    - '#F5D746'
+    - '#1E5582'
+    - '#8CE6FF'
+    - '#14A0D2'
+  saturation: 1
+  brandStrength: 0.4027685571176065
+  rhythmicContrast: 0.0993851798020377
 github: true
-description: 'Product designer '
+opengraph: {}
+layout_spectrum: 0.338007621404134
+analytics: {}
 author:
   name: Filip Zajac
   url: filipzajac.me
   email: hi@filipzajac.me
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/22790db3-8a0e-4ab4-bee2-05703c581c66.svg
+name: Filip Zajac
 cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - name: Case Studies
+    id: e6fcadac-df75-412a-b7e0-978b8b6db34f
+    type: content
+  - name: UI Design
+    id: f0853ee7-3be7-43f8-9d98-e8583d87ff73
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0facdb7-098c-409e-b6bc-d22bb06cb69d.jpg
 collections:
   - index:
       path: /
@@ -29,6 +48,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Design the future with me
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -39,27 +59,17 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://vimeo.com/xyzajac/lettering'
+      keywords: []
+      related: []
       author:
         - name: Filip Zajac
           url: 'https://vimeo.com/xyzajac'
           avatar: {}
-      datePublished: null
-      keywords: []
-      '@type': VideoObject
+      '@context': 'http://schema.org'
       title: Vectorize hand lettering with letterinkapp
-      isBasedOnUrl: 'https://vimeo.com/xyzajac/lettering'
-      publisher:
-        favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-        url: 'https://vimeo.com/'
-        name: Vimeo
-        domain: vimeo.com
-      description: >-
-        Create vectorized hand letterings in few minutes. Just skip unnecessary
-        sketching and plotting curves in a computer. Letterink does it for you.
-        Learn calligraphy Explore basics of calligraphy and create beautiful
-        scripts step by step. Simulation of pointed nib helps you understand the
-        fundamentals of calligraphy and create beautiful scripts.
-      related: []
+      '@type': VideoObject
       app_links:
         - app_name: Vimeo
           namespace: ai
@@ -87,32 +97,25 @@ content:
           url: 'vimeo://app.vimeo.com/videos/127029158'
           type: googleplay
           name: Vimeo
-      '@context': 'http://schema.org'
+      publisher:
+        favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+        url: 'https://vimeo.com/'
+        name: Vimeo
+        domain: vimeo.com
+      description: >-
+        Create vectorized hand letterings in few minutes. Just skip unnecessary
+        sketching and plotting curves in a computer. Letterink does it for you.
+        Learn calligraphy Explore basics of calligraphy and create beautiful
+        scripts step by step. Simulation of pointed nib helps you understand the
+        fundamentals of calligraphy and create beautiful scripts.
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-navigation:
-  - id: e6fcadac-df75-412a-b7e0-978b8b6db34f
-    name: Case Studies
-    type: content
-layout_spectrum: 0.338007621404134
-color:
-  lightness: 0.8804606996109654
-  brandColors:
-    - '#F0F0EB'
-    - '#F5D746'
-    - '#1E5582'
-    - '#8CE6FF'
-    - '#14A0D2'
-  saturation: 1
-  brandStrength: 0.4027685571176065
-  rhythmicContrast: 0.0993851798020377
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e0facdb7-098c-409e-b6bc-d22bb06cb69d.jpg
-content_rating:
-  adult: false
-typography_spectrum: 1
-opengraph: {}
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/22790db3-8a0e-4ab4-bee2-05703c581c66.svg
-title: Design the future with me
+description: 'Product designer '
+purpose:
+  - type: contact
+    url: 'mailto:hi@filipzajac.me'
+    label: Contact me
+  - type: internal
+    label: Meet me
+    item: 8de6405a-f70c-4154-945c-fccc094a9d8e
