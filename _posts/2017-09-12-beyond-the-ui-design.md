@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-09-12T11:42:23.986Z'
+dateModified: '2017-09-12T11:44:54.405Z'
 via: {}
 description: >-
   Designing user interface visual are on the contrary of designing experience
@@ -9,7 +9,7 @@ description: >-
 title: Beyond the UI design – case study
 inFeed: false
 author: []
-datePublished: '2017-09-12T11:42:24.717Z'
+datePublished: '2017-09-12T11:44:55.420Z'
 hasPage: true
 sourcePath: _posts/2017-09-12-beyond-the-ui-design.md
 starred: true
@@ -26,6 +26,8 @@ Designing user interface visual are on the contrary of designing experience ofte
 ---
 
 Last challenge at Kentico software was to set up new visual of the Kentico Cloud. Thanks to the company's generosity to let employees take an extra mile to experiment and research non-standard opportunities, I have taken the experiment of the UI design method.
+
+## Why we gave a shit to new UI
 
 Kentico Cloud leverages material design to quickly build the basic product. However, it generated two side effect. The product is using the visual language of Google and beside the myriad of other products using material design, the appearance of the was too generic which leads to lower trust. The company's vision is to become domain thought leader and with the generic product appearance, this becomes a serious problem.
 
