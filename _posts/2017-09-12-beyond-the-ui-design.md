@@ -1,16 +1,16 @@
 ---
 publisher: {}
-dateModified: '2017-09-12T11:25:06.485Z'
+dateModified: '2017-09-12T11:28:20.062Z'
 via: {}
 description: ''
 title: Beyond the UI design
 inFeed: false
 author: []
-datePublished: '2017-09-12T11:25:07.119Z'
+datePublished: '2017-09-12T11:28:21.177Z'
 hasPage: true
+sourcePath: _posts/2017-09-12-beyond-the-ui-design.md
 starred: true
 datePublishedOriginal: '2017-09-12T11:25:07.119Z'
-sourcePath: _posts/2017-09-12-beyond-the-ui-design.md
 url: beyond-the-ui-design/index.html
 _type: Blurb
 
@@ -37,20 +37,30 @@ Inspired by Matej's work with insights of Kristy (a fellow designer at Intercom)
 * **Creative phase**Goal is was ideate visual material from researched data and its constraints for delivering phase.
 * **Delivering phase**To produce deliverables from ideated visuals for implementation.
 
-Research -- company brand
+## Research phase
+
+### Step one -- research a question
 
 To set up the research is always a never-ending dilemma. To conduct any research we need a question so we can get the answer. But we also need a good question. So we need to question a question. Damn
 
 **Helpful mental exercise**  
 I knew what needs to be delivered. Right? But I don't know how it should look like. So I need to set up some criteria that help me evaluate the results. Bingo. Here we go.
 
-### Criteria for the project
+**Criteria for the project**
 
 * Unique visual language or at least distinguishable from notoriously known tech brands like Google, Microsoft, Apple, Dropbox etc. 
 * Original visual language that represents company's values.
 * Meaningful visual language that supports the productivity of product users.
 
-### Constraints
+**Constraints**Kentico has already developed branding and the new product visual must respect the mother brand, on the other side it needs to be distinguishable enough from other company's product.
 
-Kentico has already developed branding and the new product visual must respect the mother brand, on the other side it needs to be distinguishable enough from other company's product.
+### Step two -- get evaluation criteria
+
+This is the part that most of the visual project is missing because the evaluation visual quality is hard to measure. However, the clever people have done the evaluation methods for us. Since the visual is a matter of appeal we will evaluate the quality though the adjectives that represent it.
+
+Here we set up the bunch of adjectives, which was carefully discussed and derived from the project request and the company values. Those can be used by any of the described methods -- semantic differential or desirability test.
+
+### Step three -- get inspired
+
+This is the part where everybody looks how it was done previously. However, from my point of view, it is completely wrong if your aim is to create something original. Original in terms of including a touch of an original source.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bc6ca8e-41aa-4046-900a-d288372b9592.png)
