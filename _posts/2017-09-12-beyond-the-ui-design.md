@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-09-12T11:45:53.071Z'
+dateModified: '2017-09-12T12:01:57.537Z'
 via: {}
 description: >-
   Designing user interface visual are on the contrary of designing experience
@@ -9,7 +9,7 @@ description: >-
 title: Beyond the UI design – case study
 inFeed: false
 author: []
-datePublished: '2017-09-12T11:45:53.684Z'
+datePublished: '2017-09-12T12:01:58.562Z'
 hasPage: true
 sourcePath: _posts/2017-09-12-beyond-the-ui-design.md
 starred: true
@@ -66,3 +66,7 @@ Here we set up the bunch of adjectives, which was carefully discussed and derive
 ### Step three -- get inspired
 
 This is the part where everybody looks how it was done previously. However, from my point of view, it is completely wrong if your aim is to create something original. Original in terms of including a touch of an original source.
+
+**Reverse semiology**While observing people, offices, the city of Brno, I remind myself the book Mythologies written by Roland Barthes. He used semiology to investigate myths of advertisements. This method gives me the clue how to involve symbols of visualities.
+
+Let's say there is a sentiment behind the certain value. Let's say stability and humanity. Many of the Kentico and Czech people believe in the myth of old good times represented by Milos Forman's films for instance Postriziny. And If I'll use some symbols from that movie I will remind the sentiment underneath and evoke the requested values of stability and humanity.
