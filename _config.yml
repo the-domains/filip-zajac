@@ -1,20 +1,20 @@
-typography_spectrum: 1
+layout_spectrum: 0.02533771511204172
+typography_spectrum: 0.19736425243235092
+color:
+  lightness: 0.16479508626809583
+  brandColors:
+    - '#FFFFFF'
+    - '#DDDDDD'
+    - '#EDCB2F'
+    - '#305A88'
+    - '#99ADC4'
+  saturation: 0.9990152637797897
+  brandStrength: 0.28667167623933076
+  rhythmicContrast: 0.08492141945840846
 content_rating:
   adult: false
-color:
-  lightness: 0.8804606996109654
-  brandColors:
-    - '#F0F0EB'
-    - '#F5D746'
-    - '#1E5582'
-    - '#8CE6FF'
-    - '#14A0D2'
-  saturation: 1
-  brandStrength: 0.4027685571176065
-  rhythmicContrast: 0.0993851798020377
 github: true
 opengraph: {}
-layout_spectrum: 0.338007621404134
 analytics: {}
 author:
   name: Filip Zajac
