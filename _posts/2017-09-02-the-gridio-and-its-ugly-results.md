@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-09-12T11:35:22.178Z'
-dateModified: '2017-09-12T11:35:20.298Z'
+datePublished: '2017-09-12T13:31:09.347Z'
+dateModified: '2017-09-12T13:31:08.561Z'
 description: >-
   You might have noticed that the visual quality of my website is not the
   quality in my portfolio. What is the reason behind its ugliness and why am I
