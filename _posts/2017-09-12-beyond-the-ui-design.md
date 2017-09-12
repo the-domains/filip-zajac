@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-09-12T13:02:11.798Z'
+dateModified: '2017-09-12T13:31:08.561Z'
 via: {}
 description: >-
   Designing user interface visual are on the contrary of designing experience
@@ -9,7 +9,7 @@ description: >-
 title: Beyond the UI design – case study
 inFeed: false
 author: []
-datePublished: '2017-09-12T13:02:12.625Z'
+datePublished: '2017-09-12T13:31:09.353Z'
 hasPage: true
 sourcePath: _posts/2017-09-12-beyond-the-ui-design.md
 starred: true
