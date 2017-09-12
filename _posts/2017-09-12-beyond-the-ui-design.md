@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-09-12T11:45:30.301Z'
+dateModified: '2017-09-12T11:45:53.071Z'
 via: {}
 description: >-
   Designing user interface visual are on the contrary of designing experience
@@ -9,7 +9,7 @@ description: >-
 title: Beyond the UI design – case study
 inFeed: false
 author: []
-datePublished: '2017-09-12T11:45:30.853Z'
+datePublished: '2017-09-12T11:45:53.684Z'
 hasPage: true
 sourcePath: _posts/2017-09-12-beyond-the-ui-design.md
 starred: true
@@ -59,10 +59,10 @@ I knew what needs to be delivered. Right? But I don't know how it should look li
 ### Step two -- get evaluation criteria
 
 This is the part that most of the visual project is missing because the evaluation visual quality is hard to measure. However, the clever people have done the evaluation methods for us. Since the visual is a matter of appeal we will evaluate the quality though the adjectives that represent it.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bc6ca8e-41aa-4046-900a-d288372b9592.png)
 
 Here we set up the bunch of adjectives, which was carefully discussed and derived from the project request and the company values. Those can be used by any of the described methods -- semantic differential or desirability test.
 
 ### Step three -- get inspired
 
 This is the part where everybody looks how it was done previously. However, from my point of view, it is completely wrong if your aim is to create something original. Original in terms of including a touch of an original source.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bc6ca8e-41aa-4046-900a-d288372b9592.png)
